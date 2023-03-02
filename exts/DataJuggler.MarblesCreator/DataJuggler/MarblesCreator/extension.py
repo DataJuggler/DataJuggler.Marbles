@@ -4,7 +4,7 @@
 # The images folder is now set via a StringField in the UI. Make sure the folder exists and has your images
 # before clicking the Create Marbles button.
 # To change the default folder, change line 41. 
-# this can be run more than once
+# this can be run more than once. It creates 100 spheres each time the button is clicked.
 
 import os
 import omni.kit.commands

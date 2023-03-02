@@ -6,14 +6,14 @@ version = "1.0.0"
 authors = ["Data Juggler"]
 
 # The title and description fields are primarily for displaying extension info in UI
-title = "DataJuggler MarblesCreator"
+title = "DataJuggler.MarblesCreator"
 description="A simple python extension example to use as a starting point for your extensions."
 
 # Path (relative to the root) or content of readme markdown file for UI.
 readme  = "docs/README.md"
 
 # URL of the extension source repository.
-repository = ""
+repository = "https://github.com/DataJuggler/DataJuggler.Marbles"
 
 # One of categories for UI.
 category = "Example"
